@@ -5,7 +5,7 @@ Parser for OK pages.
 ```parser_tor.py``` - Scraping using tor(If necessary, replace the ```Controller.from_port``` and ```controller.authenticate()``` values in the editor)  
 ## Installation
 1. Clone a repository  
-- ```https://github.com/SB-Shkiper/OK-Parser```  
+- ```https://github.com/SB-Shkiper/OK-Parser.git```  
 2. Going to the VK-Info directory  
 - ```cd OK-Parser```  
 3. Create a virtual environment
