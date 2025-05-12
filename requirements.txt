@@ -1,4 +1,4 @@
 stealth_requests
 lxml
 fake-useragent
-beautifulsoup4
+bs4
