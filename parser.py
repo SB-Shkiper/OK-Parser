@@ -9,7 +9,7 @@ print('Enter a link to the OK page')
 ok_link = input('>>> ')
 url = f'{ok_link}'
 
-headers = {'User -Agent': random_user}
+headers = {'User-Agent': random_user}
 proxy= {
 'http': 'your proxy',
 'https': 'your proxy'
